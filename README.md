@@ -29,10 +29,7 @@
 ###
 
 <p align="justify">
-  Go — и этим всё сказано. Минимум синтаксиса, максимум смысла. Пишу так же: без лишнего, по делу.
-
-<p align="justify">
-  Со второго курса мое сердце покорил C# 💙. Сейчас я активно развиваюсь в этом направлении: читаю профессиональные книги 📚 и закрепляю знания на практике с помощью pet-проектов 🛠️.
+  Go — and that’s all that needs to be said. Minimal syntax, maximum meaning. I write the same way: without fluff, to the point.
 </p>
 
 ###
