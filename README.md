@@ -29,7 +29,7 @@
 ###
 
 <p align="justify">
-  Go — and that’s all that needs to be said. Minimal syntax, maximum meaning. I write the same way: without fluff, to the point.
+  Go — и этим всё сказано. Минимум синтаксиса, максимум смысла. Пишу так же: без лишнего, по делу.
 </p>
 
 ###
